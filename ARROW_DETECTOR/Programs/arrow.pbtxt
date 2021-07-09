@@ -1,0 +1,8 @@
+item {
+	id:1
+	name: 'right_arrow'
+}
+item {
+	id:2
+	name: 'left_arrow'
+}
