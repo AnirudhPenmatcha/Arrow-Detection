@@ -3,6 +3,6 @@ As part of my undergraduate university robotics's team -- RUDRA, I created a DL 
 
 ![42](https://user-images.githubusercontent.com/53865153/213199274-8e351eb5-9671-4b6a-b63e-7fcf9fd109bd.jpg)
 
-The weights are not included in the repo for competitive reasons. Lol. 
-
 Also check out this stop motion video of my dataset: https://youtu.be/Besqe09Hzik
+
+The weights are not included in the repo for competitive reasons. Lol. 
